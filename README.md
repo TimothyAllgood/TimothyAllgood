@@ -1,16 +1,36 @@
-## Hi there 👋
+# Timothy Allgood
 
-<!--
-**TimothyAllgood/TimothyAllgood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer with six years of professional experience building, modernizing, and supporting production applications.
 
-Here are some ideas to get you started:
+My professional work is centered on **C#, .NET, Angular, TypeScript, SQL Server, REST APIs, and Azure DevOps**. I also build independent products with **Next.js, React, Tailwind CSS, PostgreSQL, and Drizzle ORM**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most of my recent professional code is in private repositories, so the projects below focus on independent product development and client work.
+
+## Selected Work
+
+### [Goblify](https://goblify.com)
+
+A full-stack platform for generating, organizing, and saving tabletop RPG content.
+
+- Built with Next.js, React, TypeScript, and Tailwind CSS
+- Uses PostgreSQL and Drizzle ORM
+- Includes authentication, subscription billing, saved user content, AI-assisted generation, and third-party integrations
+
+## Professional Focus
+
+- Modernizing production .NET and Angular applications
+- Building full-stack features across frontend, API, and database layers
+- Improving CI/CD and deployment workflows
+- Troubleshooting and supporting existing production systems
+
+## Core Technologies
+
+**Professional:** C#, .NET, ASP.NET Core, Angular, TypeScript, SQL Server, T-SQL, Azure DevOps, REST APIs
+
+**Additional product development:** Next.js, React, Node.js, PostgreSQL, Tailwind CSS, Drizzle ORM
+
+## Links
+
+- [Portfolio](https://timothyallgood.com)
+- [LinkedIn](https://www.linkedin.com/in/timothyallgood/)
+- [Goblify](https://goblify.com)
